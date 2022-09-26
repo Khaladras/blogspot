@@ -1,7 +1,3 @@
-esta es mi historia 
-una de 
-        esas 
-                que abundad 
-                    pero q es mia 
-                        este es el primer commit
-    otro tercer commit ensayado 
+ESTA ES UNA HISTORIA DE UN GATITO
+    COCO que ahora esta mas viejito y ronca como bestia
+        lo bueno es que duerme en su rascador calentico 
