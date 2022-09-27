@@ -8,10 +8,10 @@ body {
 #post {border-radius: 0px 200px 0px 200px;
     -moz-border-radius: 0px 200px 0px 200px;
     -webkit-border-radius: 0px 200px 0px 200px;
-    border: 11px solid #000000;
+    border: 11px solid #0fca4d;
  
 }
-#container h1{
+#post h1{
     font-size: 20px;
     font-family: 'Courier New', Courier, monospace;
 }
