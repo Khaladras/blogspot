@@ -16,5 +16,4 @@
 >todos los derechos izquierdos ambidiestros pertenecen al que los pida con amabilidad🐱‍👤
 
 ------------
-[[para ir al curso del cual hablo]][curso de git/github]
-[curso de git/github]: http://https://platzi.com/cursos/git-github/
+[para ir al curso del cual hablo http://https://platzi.com/cursos/git-github/]
